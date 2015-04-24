@@ -1,0 +1,29 @@
+body {
+    background: lightgray;
+    width: 800px;
+    margin: auto;
+    
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+    color: black;
+    text-align: center;
+    font-size:60px;
+    margin-top: 30px;
+    
+}
+main {
+    position:relative;
+    top:-100px;
+    text-align:center;
+}
+header {
+    text-align: center;
+}
+
+p {
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px;
+}
